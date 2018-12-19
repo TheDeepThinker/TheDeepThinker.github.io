@@ -248,3 +248,12 @@ a.sidebar-nav-item:focus {
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
 }
+
+/* Minhas */
+.theme-base-ff .sidebar {
+  background-color: #c85f0a;
+}
+.theme-base-ff .content a,
+.theme-base-ff .related-posts li a:hover {
+  color: #c85f0a;
+}
