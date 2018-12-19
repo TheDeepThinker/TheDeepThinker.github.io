@@ -251,9 +251,9 @@ a.sidebar-nav-item:focus {
 
 /* Minhas */
 .theme-base-ff .sidebar {
-  background-color: #c85f0a;
+  background-color: #aca26c;
 }
 .theme-base-ff .content a,
 .theme-base-ff .related-posts li a:hover {
-  color: #c85f0a;
+  color: #4a442a;
 }
